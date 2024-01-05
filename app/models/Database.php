@@ -5,7 +5,7 @@ class Database
     private $host = "localhost"; // Replace with your database host
     private $dbname = "SmartTravelv2"; // Replace with your database name
     private $username = "root"; // Replace with your database username
-    private $password = ""; // Replace with your database password
+    private $password = "123"; // Replace with your database password
 
     public function getConnection()
     {
